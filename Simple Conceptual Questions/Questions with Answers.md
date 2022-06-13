@@ -1,7 +1,7 @@
 ### 1. What is PyQt5?
 
 Answer: 
-  It is front end library that helped us to build with Python with other languages.
+  It is front end library that helped us to build with Python with other languages. The most important thing to remember about PyQt5 is 'It is class based API', which means everything in it is done by making and using classes.
 
 ### 2 - Which classes are imported from the main class of PyQt5 to use the labels, windows etc.?
 Answer: 
