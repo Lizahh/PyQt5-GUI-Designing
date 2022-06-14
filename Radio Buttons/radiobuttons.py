@@ -17,7 +17,7 @@ class MyWindow(QMainWindow):
 
         # Give title to the application window
         # Nota Bene: If you want to make any changes to application window, never forget to use the 'self' 
-        self.setWindowTitle("CheckBoxes in PyQt5")
+        self.setWindowTitle("Radio Buttons in PyQt5")
 
         # Resize the application window according to the size you want to see it
         self.resize(500,500)
