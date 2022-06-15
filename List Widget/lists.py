@@ -37,7 +37,7 @@ class MyWindow(QMainWindow):
         # Add layout
         layout = QVBoxLayout()
 
-        # Add combo boxes and label to the layout
+        # Add list widget and label to the layout
         layout.addWidget(mylist)
         layout.addWidget(self.label)
 
