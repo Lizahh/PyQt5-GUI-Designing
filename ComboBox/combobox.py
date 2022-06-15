@@ -1,6 +1,6 @@
 # We will create here combo boxes using PyQt5
 
-# Combo boxe is a type of dialogue box containing a combination of controls, such as sliders, text boxes, and drop-down lists.
+# Combo box is a type of dialogue box containing a combination of controls, such as sliders, text boxes, and drop-down lists.
 
 # Step 1: Import all important librabries
 from ast import Lambda
