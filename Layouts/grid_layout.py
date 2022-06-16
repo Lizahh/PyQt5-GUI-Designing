@@ -21,7 +21,7 @@ class MainWindow (QMainWindow):
         # Creating grid layout
         layout = QGridLayout()
 
-       # Adding widgets to the grid layout: we will add coordinates of the new widgets: (0,0) means 0th column and 0th row etc.
+       # Adding widgets to the grid layout: we will add coordinates of the new widgets: (1,0) means 1st row and 0th column etc.
         layout.addWidget(QLabel("Widget in 0th row 0th col"), 0,0)
         layout.addWidget(QLabel("Widget in 0th row 1st col"), 0,1)
         layout.addWidget(QLabel("Widget in 0th row 2nd col"), 0,2)
